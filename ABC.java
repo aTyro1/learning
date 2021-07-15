@@ -26,7 +26,7 @@ public class ABC{
        c1.display();
        System.out.println("Value given by console:");
        c2.display();
-       System.out.println("Added values of console and constructor:");
+       System.out.println("Added values of console and constructr:");
        c3.display();
    }
 }
